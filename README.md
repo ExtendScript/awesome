@@ -7,3 +7,12 @@ A curated list of awesome ExtendScript resources
 W.I.P.  
 
 This list should comply to these guidlines --> [sindresorhus/awesome/create-list.md](https://github.com/sindresorhus/awesome/blob/master/create-list.md)
+
+
+
+### Illustrator  
+
+- [GitHub - jtnimoy/scripting-for-illustrator-tutorial: Scripting for Illustrator, a tutorial for Processing coders](https://github.com/jtnimoy/scripting-for-illustrator-tutorial) a great step by step guide to get you up an running with the Illustrator Scripting API  
+### InDesign  
+
+### After Effects
