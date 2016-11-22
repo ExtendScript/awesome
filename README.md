@@ -19,4 +19,4 @@ This list should comply to these guidlines --> [sindresorhus/awesome/create-list
 
 ### ExtendScript  
 
-- [﻿Reversing JSXBIN File Type](http://www.scip.ch/en/?labs.20140515) A extended article about the .jsxbin format and how to reverse engineering it  
+- [﻿Reversing JSXBIN File Type](https://www.scip.ch/en/?labs.20140515) A extended article about the .jsxbin format and how to reverse engineering it  
