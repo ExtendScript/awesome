@@ -9,10 +9,14 @@ W.I.P.
 This list should comply to these guidlines --> [sindresorhus/awesome/create-list.md](https://github.com/sindresorhus/awesome/blob/master/create-list.md)
 
 
+### Photoshop
+
+- [node-photoshop by @SubtleGradient](https://github.com/subtleGradient/node-photoshop) Used internally at Facebook since 2013 for some Design Tools, image asset pipeline, UI Animation pipeline, and generative video pipeline. Supports Photoshop and After Effects. No longer maintained.
 
 ### Illustrator  
 
 - [GitHub - jtnimoy/scripting-for-illustrator-tutorial: Scripting for Illustrator, a tutorial for Processing coders](https://github.com/jtnimoy/scripting-for-illustrator-tutorial) a great step by step guide to get you up an running with the Illustrator Scripting API  
+
 ### InDesign  
 
 ### After Effects
