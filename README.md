@@ -32,3 +32,6 @@ This list should comply to these guidlines --> [sindresorhus/awesome/create-list
 - [﻿Reversing JSXBIN File Type](https://www.scip.ch/en/?labs.20140515) A extended article about the .jsxbin format and how to reverse engineering it   
 
 - [fakestk by nbqx](https://github.com/nbqx/fakestk): A CLI/CUI Adobe ExtendScript runner. It accepts a script file or stdin. (currently osx only)
+
+- [basil.js](https://github.com/basiljs/basil.js): An attempt to port the spirit of the Processing visualization language to Adobe Indesign.
+
