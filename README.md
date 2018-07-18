@@ -15,6 +15,8 @@ This list should comply to these guidlines --> [sindresorhus/awesome/create-list
 
 - [PSFakeDOM2 by @SubtleGradient](https://github.com/subtleGradient/node-photoshop/blob/master/lib/ExtendScript/PSFakeDOM2.jsxinc) Utilities for dealing with Photoshop documents. e.g. `PSFakeDOM.getLayersArray()` returns an array of all layers in a few milliseconds instead of the few minutes it can take to walk to normal Photoshop DOM.
 
+- [photoshopjs-core by @AriaMinaei](https://github.com/AriaMinaei/photoshopjs-core) A jQuery-like interface for Photoshop ActionDescriptors.
+
 ### Illustrator  
 
 - [GitHub - jtnimoy/scripting-for-illustrator-tutorial: Scripting for Illustrator, a tutorial for Processing coders](https://github.com/jtnimoy/scripting-for-illustrator-tutorial) a great step by step guide to get you up an running with the Illustrator Scripting API  
